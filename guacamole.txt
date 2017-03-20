@@ -2,3 +2,5 @@ avocados
 garlic
 limes
 salt
+tomatoes
+cilantro
