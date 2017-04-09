@@ -3,3 +3,5 @@ garlic
 limes
 salt
 cilantro
+tomatoes
+tortilla chips
