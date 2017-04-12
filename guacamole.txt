@@ -5,3 +5,4 @@ salt
 cilantro
 tomatoes
 tortilla chips
+chili sauce
