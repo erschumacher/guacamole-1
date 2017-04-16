@@ -2,7 +2,7 @@ avocados
 garlic
 limes
 salt
-cilantro
 tomatoes
-tortilla chips
-chili sauce
+onions
+jalepenos
+pepper
